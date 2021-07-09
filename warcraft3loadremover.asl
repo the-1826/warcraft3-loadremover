@@ -1,5 +1,5 @@
 /**
- * Tyler Durden
+ * Vincent Vega
 
  * @game	   Warcraft III Classic
  * @category   Autosplitter, Load Time Removal
